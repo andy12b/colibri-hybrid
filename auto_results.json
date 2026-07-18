@@ -1,0 +1,38 @@
+[
+  {
+    "name": "t12_pipe_4",
+    "median_toks": 0.247,
+    "diffs": [
+      "P1 missing",
+      "P2 missing",
+      "P3 missing"
+    ]
+  },
+  {
+    "name": "t12_pipe_16",
+    "median_toks": 0.246,
+    "diffs": [
+      "P1 missing",
+      "P2 missing",
+      "P3 missing"
+    ]
+  },
+  {
+    "name": "t13_draft_2",
+    "median_toks": 0.246,
+    "diffs": [
+      "P1 missing",
+      "P2 missing",
+      "P3 missing"
+    ]
+  },
+  {
+    "name": "t13_draft_4",
+    "median_toks": 0.245,
+    "diffs": [
+      "P1 missing",
+      "P2 missing",
+      "P3 missing"
+    ]
+  }
+]

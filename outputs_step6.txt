@@ -1,0 +1,65 @@
+=== P1 R1 ===
+Hummingbirds can hover due to their unique wing anatomy and rapid wingbeat. Their wings are relatively short and stiff, allowing for incredible maneuverability and lift. They beat their wings in a figure-eight pattern, generating lift on both the downstroke and upstroke, which lets them hang in mid-air.
+
+=== P1 R2 ===
+Hummingbirds can hover due to their unique wing anatomy and rapid wingbeat. Their wings move in a figure-eight pattern, generating lift on both the downstroke and upstroke. This specialized flight mechanism allows them to remain stationary in midair while feeding.
+
+=== P1 R3 ===
+Hummingbirds can hover due to their unique wing anatomy and rapid wingbeat. Their wings beat in a figure-eight pattern, generating lift on both the downstroke and upstroke. This specialized flight mechanism, combined with their extremely fast metabolism, provides the power needed to sustain hovering flight.
+
+=== P2 R1 ===
+```c
+void reverse_string(char *str) {
+    if (!str) return;
+    int len = strlen(str);
+    for (int i = 0, j = len - 1; i < j; i++, j--) {
+        char temp = str[i];
+        str[i] = str[j
+
+=== P2 R2 ===
+```c
+void reverse_string(char *str) {
+    if (!str) return;
+    char *end = str;
+    while (*end) end++;
+    end--;
+    while (str < end) {
+        char temp = *str;
+        *str++ = *end;
+        *end-- = temp
+
+=== P2 R3 ===
+```c
+#include <string.h>
+
+void reverse_string(char *str) {
+    if (!str) return;
+    
+    size_t len = strlen(str);
+    for (size_t i = 0, j = len - 1; i < j; i++, j--) {
+        char temp = str[i
+
+=== P3 R1 ===
+17 * 23 = 391
+
+**Reasoning:**
+17 * 20 = 340
+17 * 3 = 51
+340 + 51 = 391
+
+=== P3 R2 ===
+17 * 23 = 391
+
+**Reasoning:**
+17 * 20 = 340
+17 * 3 = 51
+340 + 51 = 391
+
+=== P3 R3 ===
+17 * 23 = 391
+
+Reasoning:
+17 * 20 = 340
+17 * 3 = 51
+340 + 51 = 391
+

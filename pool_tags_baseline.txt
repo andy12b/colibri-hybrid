@@ -1,0 +1,20 @@
+﻿
+Tag  NonPagedMB Outstanding
+---  ---------- -----------
+NtFC     6817.7    44680433
+ismc      350.9           3
+ConT      186.2        1230
+EtwB      150.7        3213
+NVRM       53.7       12407
+dump       20.4           2
+THKB         15           1
+None       13.2        1985
+@K1O       12.7           1
+Cont       11.7         334
+Thre       11.3        3376
+FMsl       10.7       24291
+NvLH       10.4         284
+@GM6        9.4        4068
+File        8.2       21657
+
+

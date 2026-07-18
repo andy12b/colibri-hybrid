@@ -1,0 +1,1 @@
+{"id":"chatcmpl-daa89ca3e7b9413c84cb64c8745cd679","object":"chat.completion","created":1784153154,"model":"glm-5.2-colibri","choices":[{"index":0,"message":{"role":"assistant","content":"Hello! I'm GLM, an AI assistant developed by Z.ai. How","refusal":null},"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":7,"completion_tokens":16,"total_tokens":23}}

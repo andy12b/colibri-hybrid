@@ -1,0 +1,4 @@
+=== P1 R1 ===
+Wall: 380.8s | toks/s: 0.003 | Acc: 18/27 (66.7%)
+Hummingbirds can hover due to their unique wing anatomy and rapid wingbeat. Their wings beat in a figure-eight pattern, generating lift on both the downstroke and the upstroke. This specialized flight mechanism allows them to remain stationary in mid-air while feeding.
+

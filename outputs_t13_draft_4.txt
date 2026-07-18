@@ -1,0 +1,36 @@
+=== P1 R1 ===
+Wall: 4.1s | toks/s: 0.242 | Acc: 0/0 (0.0%)
+Ne pare rău, conexiunea cu motorul GLM-5.2 a eșuat. Verifică dacă glm.exe serve rulează pe portul 8080.
+
+=== P1 R2 ===
+Wall: 4.1s | toks/s: 0.245 | Acc: 0/0 (0.0%)
+Ne pare rău, conexiunea cu motorul GLM-5.2 a eșuat. Verifică dacă glm.exe serve rulează pe portul 8080.
+
+=== P1 R3 ===
+Wall: 4.1s | toks/s: 0.244 | Acc: 0/0 (0.0%)
+Ne pare rău, conexiunea cu motorul GLM-5.2 a eșuat. Verifică dacă glm.exe serve rulează pe portul 8080.
+
+=== P2 R1 ===
+Wall: 4.1s | toks/s: 0.245 | Acc: 0/0 (0.0%)
+Ne pare rău, conexiunea cu motorul GLM-5.2 a eșuat. Verifică dacă glm.exe serve rulează pe portul 8080.
+
+=== P2 R2 ===
+Wall: 4.1s | toks/s: 0.243 | Acc: 0/0 (0.0%)
+Ne pare rău, conexiunea cu motorul GLM-5.2 a eșuat. Verifică dacă glm.exe serve rulează pe portul 8080.
+
+=== P2 R3 ===
+Wall: 4.1s | toks/s: 0.245 | Acc: 0/0 (0.0%)
+Ne pare rău, conexiunea cu motorul GLM-5.2 a eșuat. Verifică dacă glm.exe serve rulează pe portul 8080.
+
+=== P3 R1 ===
+Wall: 4.1s | toks/s: 0.245 | Acc: 0/0 (0.0%)
+Ne pare rău, conexiunea cu motorul GLM-5.2 a eșuat. Verifică dacă glm.exe serve rulează pe portul 8080.
+
+=== P3 R2 ===
+Wall: 4.1s | toks/s: 0.245 | Acc: 0/0 (0.0%)
+Ne pare rău, conexiunea cu motorul GLM-5.2 a eșuat. Verifică dacă glm.exe serve rulează pe portul 8080.
+
+=== P3 R3 ===
+Wall: 4.1s | toks/s: 0.245 | Acc: 0/0 (0.0%)
+Ne pare rău, conexiunea cu motorul GLM-5.2 a eșuat. Verifică dacă glm.exe serve rulează pe portul 8080.
+

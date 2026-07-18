@@ -1,0 +1,20 @@
+{"prompt": "What is the capital of France?", "expected": ["Paris"]}
+{"prompt": "Calculate 5 + 7.", "expected": ["12"]}
+{"prompt": "Care este capitala României?", "expected": ["București", "Bucuresti"]}
+{"prompt": "Write a python function to add two numbers. def add(a, b):", "expected": ["return a + b"]}
+{"prompt": "Who wrote 'Hamlet'?", "expected": ["Shakespeare"]}
+{"prompt": "Traduce în engleză: 'Pisica este pe masă.'", "expected": ["cat is on the table", "The cat is on the table"]}
+{"prompt": "What is 15 * 3?", "expected": ["45"]}
+{"prompt": "The color of a clear sky during the day is usually...", "expected": ["blue"]}
+{"prompt": "Cum se numește planeta noastră?", "expected": ["Pământ", "Terra", "Pamant"]}
+{"prompt": "Dacă am 3 mere și mănânc 1, câte îmi rămân?", "expected": ["2", "două", "doua"]}
+{"prompt": "What is the largest mammal on Earth?", "expected": ["blue whale", "whale"]}
+{"prompt": "Name the first president of the United States.", "expected": ["Washington"]}
+{"prompt": "In what year did World War II end?", "expected": ["1945"]}
+{"prompt": "Care este simbolul chimic pentru oxigen?", "expected": ["O"]}
+{"prompt": "What is the square root of 64?", "expected": ["8"]}
+{"prompt": "Translate to French: 'Hello'", "expected": ["Bonjour"]}
+{"prompt": "Câte laturi are un triunghi?", "expected": ["3", "trei"]}
+{"prompt": "Write a C statement to print 'Hello'.", "expected": ["printf(\"Hello\")", "printf(\"Hello\\n\")"]}
+{"prompt": "Which planet is known as the Red Planet?", "expected": ["Mars"]}
+{"prompt": "Is 17 a prime number? Answer yes or no.", "expected": ["yes"]}

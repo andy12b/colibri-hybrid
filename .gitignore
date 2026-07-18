@@ -21,3 +21,8 @@ __pycache__/
 # OS
 .DS_Store
 Thumbs.db
+
+# Binare compilate (regenerabile din surse)
+*.exe
+*.obj
+*.o

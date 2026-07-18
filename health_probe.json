@@ -1,0 +1,1 @@
+{"status":"ok","scheduler":{"active":0,"queued":0,"capacity":1,"max_queue":8,"queue_timeout_seconds":300.0,"admitted":0,"completed":0,"rejected":0,"timed_out":0,"cancelled":0},"kv_slots":1}
