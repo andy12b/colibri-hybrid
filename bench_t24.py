@@ -22,7 +22,7 @@ def run_speq(prompt, speq_k):
         "run", prompt,
         "--model", r"D:\glm52_i4",
         "--ram", "10",
-        "--ngen", "32"  # Just 32 tokens to trigger the print at least once!
+        "--ngen", "33"  # Just 32 tokens to trigger the print at least once!
     ]
     
     proc = subprocess.run(cmd, env=env, capture_output=True, text=True)
